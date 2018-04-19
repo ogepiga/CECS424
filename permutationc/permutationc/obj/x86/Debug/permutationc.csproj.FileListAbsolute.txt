@@ -1,0 +1,5 @@
+/Users/tainagarigliodias/Documents/CECS424/permutationc/permutationc/bin/Debug/permutationc.exe
+/Users/tainagarigliodias/Documents/CECS424/permutationc/permutationc/bin/Debug/permutationc.pdb
+/Users/tainagarigliodias/Documents/CECS424/permutationc/permutationc/obj/x86/Debug/permutationc.csproj.CoreCompileInputs.cache
+/Users/tainagarigliodias/Documents/CECS424/permutationc/permutationc/obj/x86/Debug/permutationc.exe
+/Users/tainagarigliodias/Documents/CECS424/permutationc/permutationc/obj/x86/Debug/permutationc.pdb
